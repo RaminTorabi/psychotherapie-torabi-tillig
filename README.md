@@ -19,16 +19,8 @@ Diese Website nutzt Jekyll und GitHub Pages.
 Folgende Dateien sollten noch angepasst werden:
 
 - `_config.yml`: E-Mail und Telefonnummer ergänzen
-- `contact.md`: Kontaktdaten und Anfahrtsinformationen vervollständigen
-- `about.md`: Qualifikationen und weitere Details hinzufügen
-- `services.md`: Spezifische Behandlungsverfahren ergänzen
 
 ### Struktur
 
 - `index.md` - Startseite
-- `about.md` - Über mich
-- `services.md` - Leistungen  
-- `contact.md` - Kontakt & Anfahrt
-- `impressum.md` - Impressum
-- `datenschutz.md` - Datenschutzerklärung
 - `_config.yml` - Jekyll-Konfiguration

@@ -12,7 +12,7 @@ permalink: /impressum/
 Schlieperstr. 69  
 13507 Berlin
 
-**Telefon:** [Telefonnummer]  
+**Telefon:** +49 30 54490427  
 **E-Mail:** [E-Mail-Adresse]
 
 ## Berufsbezeichnung und berufsrechtliche Regelungen

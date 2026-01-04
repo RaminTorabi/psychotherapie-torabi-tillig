@@ -1,9 +1,7 @@
 ---
 layout: home
-title: Willkommen
+title: Praxis Dr. med. Helene Torabi-Tillig
 ---
-
-# Praxis Dr. med. Helene Torabi-Tillig
 
 ## Psychotherapeutische Praxis in Berlin
 

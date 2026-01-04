@@ -1,6 +1,6 @@
 title: "Dr. med. Helene Torabi-Tillig"
 description: "Psychotherapeutische Praxis in Berlin"
-baseurl: ""
+baseurl: "https://ramintorabi.github.io/psychotherapie-torabi-tillig/"
 url: ""
 
 # Build settings
@@ -13,11 +13,5 @@ plugins:
 lang: de
 author: "Dr. med. Helene Torabi-Tillig"
 email: 
-phone: 
+phone: +49 30 54490427
 address: "Schlieperstr. 69, 13507 Berlin"
-
-# Navigation
-header_pages:
-  - about.md
-  - services.md
-  - contact.md
